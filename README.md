@@ -5,3 +5,4 @@
 - 📫 Yep ...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=Towa&theme=monokai)](https://github.com/Eveeko/Towa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveeko&layout=compact)
