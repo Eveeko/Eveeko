@@ -11,8 +11,8 @@ Designed in Node.js NeekOh! is able to react and respond to a command event in t
 *(thats faster than the competing bots with 5-7s..)*
 - [Towa](https://github.com/Eveeko/Towa)  
 A League of Legends announcer tool used to replace the default announcer with a custom variant.
-- [TBA](https://github.com/Eveeko)  
-A tamagotchi-esc companion!
+- [Bullegachi](https://github.com/Eveeko/bullegachi)  
+A tamagotchi-esc Bullet Kin themed companion!
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveeko&layout=compact&theme=monokai)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=Towa&theme=monokai)](https://github.com/Eveeko/Towa)
