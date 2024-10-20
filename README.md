@@ -14,5 +14,9 @@ A League of Legends announcer tool used to replace the default announcer with a 
 - [Bullegachi](https://github.com/Eveeko/bullegachi)  
 A tamagotchi-esc Bullet Kin themed companion!
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveeko&layout=compact&theme=monokai)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=Towa&theme=monokai)](https://github.com/Eveeko/Towa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=bullegachi&theme=catppuccin_latte)](https://github.com/Eveeko/bullegachi#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=bullegachi&theme=dark)](https://github.com/Eveeko/bullegachi#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=Towa&theme=catppuccin_latte)](https://github.com/Eveeko/Towa#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveeko&repo=Towa&theme=dark)](https://github.com/Eveeko/Towa#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveeko&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/Eveeko/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveeko&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Eveeko/github-readme-stats#gh-dark-mode-only)
